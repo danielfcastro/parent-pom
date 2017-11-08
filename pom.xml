@@ -7,7 +7,7 @@
 	<version>1.0</version>
 	<packaging>pom</packaging>
 	<name>Parent POM</name>
-	<description>Parent BOM para projetos JAVA.</description>
+	<description>Parent POM para projetos JAVA.</description>
 	<properties>
 
 		<!-- **************** -->
